@@ -1,0 +1,19 @@
+{
+  "name": "redditsearch",
+  "version": "1.0.0",
+  "description": "reddit search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkleinfelter/redditsearch.git"
+  },
+  "author": "Quinn Kleinfelter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkleinfelter/redditsearch/issues"
+  },
+  "homepage": "https://github.com/qkleinfelter/redditsearch#readme"
+}
